@@ -47,9 +47,9 @@ Temporary Items
 .apdisk
 
 
-.suo
-.pdb
-.dll
-.cache
-.exe
+*.suo
+*.pdb
+*.dll
+*.cache
+*.exe
 
