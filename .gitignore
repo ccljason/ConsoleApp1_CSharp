@@ -53,3 +53,11 @@ Temporary Items
 *.cache
 *.exe
 
+*.lock
+*.ide
+/Misc1/obj
+/Misc1/bin
+/Startup/obj
+/Startup/bin
+
+
